@@ -1,0 +1,19 @@
+<div id="webaddress">
+  {% if site.email %}
+    <a href="mailto:{{ site.email }}">
+      <span class="far fa-envelope black"></span> {{ site.email }}
+    </a>
+  {% endif %}
+  |
+  {% if site.github %}
+    <a href="http://{{ site.github }}">
+      <span class="fab fa-github black"></span> {{ site.github }}
+    </a>
+  {% endif %}
+  |
+  {% if site.linkedin %}
+    <a href="http://{{ site.linkedin }}">
+      <span class="fab fa-linkedin blue"></span> {{ site.linkedin }}
+    </a>
+  {% endif %}
+</div>

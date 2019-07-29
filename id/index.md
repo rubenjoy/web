@@ -2,22 +2,12 @@
 layout: cv
 title: Ruben Juliarto
 lang: id
+updated: 25 Juli 2019
 ---
 # Ruben Juliarto
 _Performance Test_, _DevOps_ Otomasi Kontruksi Perangkat Lunak
 
-<div id="webaddress">
-  <a href="mailto:rubenjoy@gmail.com">
-    {% include icons/mail.svg %} rubenjoy@gmail.com
-  </a>
-  | <a href="http://github.com/rubenjoy">
-    {% include icons/github.svg %} github.com/rubenjoy
-  </a>
-  | <a href="http://www.linkedin.com/in/rjuliarto">
-    {% include icons/linkedin.svg %} linkedin.com/in/rjuliarto
-  </a>
-</div>
-
+{% include links.html %}
 
 ## Sekarang
 
@@ -79,17 +69,6 @@ __[Kresna Securities](http://kresnasecurities.com)__, Jakarta
 
 - Studi komparatif sejumlah _online trading platform_ yang ada di Indonesia.
 
-### pemutakhiran: 25 July 2019
+### pemutakhiran: {{ page.updated }}
 
-<div id="webaddress">
-  <a href="mailto:rubenjoy@gmail.com">
-    {% include icons/mail.svg %}
-  </a>
-  | <a href="http://github.com/rubenjoy">
-    {% include icons/github.svg %}
-  </a>
-  | <a href="http://www.linkedin.com/in/rjuliarto">
-    {% include icons/linkedin.svg %}
-  </a>
-</div>
-
+{% include short-links.html %}

@@ -1,21 +1,12 @@
 ---
 layout: cv
 title: Ruben Juliarto
+updated: 22 July 2019
 ---
 # Ruben Juliarto
 Performance Test, DevOps Build Automation Support
+{% include links.html %}
 
-<div id="webaddress">
-  <a href="mailto:rubenjoy@gmail.com">
-    {% include icons/mail.svg %} rubenjoy@gmail.com
-  </a>
-  | <a href="http://github.com/rubenjoy">
-    {% include icons/github.svg %} github.com/rubenjoy
-  </a>
-  | <a href="http://www.linkedin.com/in/rjuliarto">
-    {% include icons/linkedin.svg %} linkedin.com/in/rjuliarto
-  </a>
-</div>
 
 
 ## Currently
@@ -76,17 +67,6 @@ __[Kresna Securities](http://kresnasecurities.com)__, Jakarta
 
 - Competitive studies comparing severals online stock trading platform.
 
-### updated: 22 July 2019
+### updated: {{ page.updated }}
 
-<div id="webaddress">
-  <a href="mailto:rubenjoy@gmail.com">
-    {% include icons/mail.svg %}
-  </a>
-  | <a href="http://github.com/rubenjoy">
-    {% include icons/github.svg %}
-  </a>
-  | <a href="http://www.linkedin.com/in/rjuliarto">
-    {% include icons/linkedin.svg %}
-  </a>
-</div>
-
+{% include short-links.html %}
