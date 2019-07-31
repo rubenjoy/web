@@ -190,5 +190,10 @@ strong {
 	visibility: hidden;
 }
 
+.black {
+	color: #000000;
+}
 
-
+.blue {
+	color: #0a66c2;
+}
