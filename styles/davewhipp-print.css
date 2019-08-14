@@ -197,3 +197,9 @@ strong {
 .blue {
 	color: #0a66c2;
 }
+
+.selfpotrait {
+	border-radius: 50%;
+	position: absolute;
+	left: 5%;
+}

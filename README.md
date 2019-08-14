@@ -13,3 +13,4 @@ For more details see the [project page](http://elipapa.github.io/markdown-cv) or
 ### Links
 
  - Add chinese CV with [this guide](http://longqian.me/2017/02/12/jekyll-support-chinese/)
+ - Bytedance's [Resume Example](https://github.com/CyC2018/Markdown-Resume)
