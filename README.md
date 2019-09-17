@@ -4,6 +4,11 @@ A personal curriculum vitae maintained in plain text and rendered to html and pd
 
 For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why Elipapa switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
+To run:
+```
+bundle exec jekyll s --host 0.0.0.0
+```
+
 
 ### License
 

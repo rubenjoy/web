@@ -2,7 +2,7 @@
 layout: cv
 title: Ruben Juliarto
 lang: id
-updated: 25 Juli 2019
+updated: 17 September 2019
 ---
 # Ruben Juliarto
 _Performance Test_, _DevOps_ Otomasi Kontruksi Perangkat Lunak
@@ -68,6 +68,35 @@ __[Mitrais](http://mitrais.com)__, Bandung
 __[Kresna Securities](http://kresnasecurities.com)__, Jakarta
 
 - Studi komparatif sejumlah _online trading platform_ yang ada di Indonesia.
+
+## Kursus
+
+`2019`
+__[Metodologi Agile pada Pengembangan Perangkat Lunak](https://courses.edx.org/courses/course-v1:ETHx+ASD.1x+1T2019/course/)__, EDX.org
+
+`2019`
+__[Mengerti Agile Lebih Jauh](https://www.udemy.com/course/understanding-agile-at-a-deeper-level/)__, Udemy.com
+
+`2019`
+__[Kuliah Singkat Machine Learning](https://developers.google.com/machine-learning/crash-course/)__, Google
+
+`Ongoing`
+__[Agile for Project Control](https://courses.edx.org/courses/course-v1:USMx+ENCE607.5x+1T2019/course/)__, EDX.org
+
+`2017`
+__[Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)__, Udacity.com
+
+`2017`
+__[Redux untuk Pemula](https://egghead.io/courses/getting-started-with-redux)__, Egghead.io
+
+`2017`
+__[React untuk Pemula](https://egghead.io/courses/the-beginner-s-guide-to-react)__, Egghead.io
+
+`2016`
+__[Pemrograman Fungsional di Scala](https://www.coursera.org/learn/progfun1)__, Coursera.org
+
+`Plan`
+__[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)__, Udacity.com
 
 ### pemutakhiran: {{ page.updated }}
 

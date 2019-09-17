@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Ruben Juliarto
-updated: 5 August 2019
+updated: 17 September 2019
 ---
 # Ruben Juliarto
 Performance Tester, DevOps and Automation Specialist
@@ -66,6 +66,35 @@ __[Mitrais](http://mitrais.com)__, Bandung
 __[Kresna Securities](http://kresnasecurities.com)__, Jakarta
 
 - Competitive studies comparing severals online stock trading platforms.
+
+## Courses
+
+`2019`
+__[Agile Software Development](https://courses.edx.org/courses/course-v1:ETHx+ASD.1x+1T2019/course/)__, EDX.org
+
+`2019`
+__[Understanding Agile at Deeper Level](https://www.udemy.com/course/understanding-agile-at-a-deeper-level/)__, Udemy.com
+
+`2019`
+__[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)__, Google
+
+`Ongoing`
+__[Agile for Project Control](https://courses.edx.org/courses/course-v1:USMx+ENCE607.5x+1T2019/course/)__, EDX.org
+
+`2017`
+__[Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)__, Udacity.com
+
+`2017`
+__[Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)__, Egghead.io
+
+`2017`
+__[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)__, Egghead.io
+
+`2016`
+__[Functional Programming in Scala](https://www.coursera.org/learn/progfun1)__, Coursera.org
+
+`Plan`
+__[Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)__, Udacity.com
 
 ### updated: {{ page.updated }}
 
