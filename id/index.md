@@ -2,7 +2,7 @@
 layout: cv
 title: Ruben Juliarto
 lang: id
-updated: 17 September 2019
+updated: 20 Juli 2020
 ---
 # Ruben Juliarto
 _Performance Test_, _DevOps_ Otomasi Kontruksi Perangkat Lunak
@@ -11,9 +11,8 @@ _Performance Test_, _DevOps_ Otomasi Kontruksi Perangkat Lunak
 
 ## Sekarang
 
-Bekerja di Jenius/BTPN dan bertanggung jawab untuk menguji kinerja aplikasi
-_backend_ sebelum naik ke sistem _production_. Juga mengurus perangkat otomasi
-untuk mendukung kontruksi aplikasi _mobile_ dan _backend_.
+Bekerja di Accelbyte dan bertanggung jawab untuk mengembangkan fitur baru atau
+penyempurnaan sistem _backend gaming_ yang sudah ada.
 
 ### Otomasi & CICD
 
@@ -26,8 +25,8 @@ untuk mendukung kontruksi aplikasi _mobile_ dan _backend_.
 ### Aplikasi Backend
 
  - __Java__: memimpin tim kecil untuk menambah fitur WebApp menggunakan [Spring Framework](http://springframework.org).
+ - __Golang__: menyempurnakan lobby chat service untuk masalah koneksi, _library_ yang digunakan [gorilla/websocket](https://github.com/gorilla/websocket).
  - __NodeJS__: semua proyek Jenius menggunakannya sehingga saya belajar sedikit.
- - __Golang__: menulis _WebApp_ kecil untuk diukur pada proyek [web frameworks benchmark](http://github.com/rubenjoy/webapps-rave).
  - __MongoDB__: melakukan _query_ kecil atau _upsert_ guna mendukung skrip JMeter.
  - __Groovy__: membuat [jmeter HMAC plugin](http://github.com/rubenjoy/jmeter-hmac-plugin).
  - __Python__: belajar otodidak dengan tujuan menjalankan simulasi Locust.io.
@@ -50,7 +49,14 @@ __Teknik Informatika__, Institut Teknologi Bandung.
 
 ## Pekerjaan
 
-`2018 till now`
+`2020 hingga sekarang`
+__[Accelbyte](https://accelbyte.io)__, Yogyakarta.
+
+- Memelihara aplikasi _backend_ yang sudah ada dan menambahkan fitur baru atau penyempurnaan sistem.
+- Mendukung tim operasional untuk menindaklanjuti isu yang dilayangkan client.
+- Mendukung tim _development_ client untuk integrasi sebuah _game_ dan Accelbyte _backend service_.
+
+`2018 hingga 2019`
 __[BTPN Jenius](http://jenius.com)__, Jakarta.
 
 - Mengumpulkan _request REST-API_ untuk tiap skenario pengguna, lalu menulis skrip JMeter.

@@ -1,17 +1,15 @@
 ---
 layout: cv
 title: Ruben Juliarto
-updated: 17 September 2019
+updated: 20 July 2020
 ---
 # Ruben Juliarto
 Performance Tester, DevOps and Automation Specialist
 {% include links.html %}
 
-
-
 ## Currently
 
-Working @Jenius/BTPN specializing in performance test and build automation for all current backend and mobile applications.
+Working @Accelbyte as backend software developer.
 
 ### Agile & CICD
 
@@ -24,8 +22,8 @@ Working @Jenius/BTPN specializing in performance test and build automation for a
 ### Backend
 
  - __Java__: lead a small team to enhance existing WebApp using [Spring Framework](http://springframework.org).
+ - __Golang__: write a lobby chat service using [gorilla/websocket](https://github.com/gorilla/websocket).
  - __NodeJS__: worked with nodejs, the basis of all Jenius projects written in Javascript.
- - __Golang__: write small HTTP server to do [web frameworks benchmark](http://github.com/rubenjoy/webapps-rave).
  - __MongoDB__: interface to various collections during JMeter jobs.
  - __Groovy__: write a [jmeter HMAC plugin](http://github.com/rubenjoy/jmeter-hmac-plugin).
  - __Python__: feasibility study on Locust.io simulation to replace JMeter.
@@ -48,7 +46,14 @@ __Informatics Engineering__, Institut Teknologi Bandung.
 
 ## Occupation
 
-`2018 - present`
+`2020 - present`
+__[Accelbyte](https://accelbyte.io/)__, Yogyakarta.
+
+- Maintain the existing platform and write a new feature  or an ehancement in Java Spring or Golang.
+- Support operational team to troubleshoot a client issue.
+- Support a client to develop and intergrate the game with platform backend services.
+
+`2018 - 2019`
 __[BTPN Jenius](http://jenius.com)__, Jakarta.
 
 - Collect REST-API requests for each user journey/scenario, then develop the corresponding test script.
