@@ -12,10 +12,11 @@ bundle exec jekyll s --host 0.0.0.0
 
 ### License
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+[MIT License](https://github.com/rubenjoy/web/blob/master/LICENSE)
 
 
 ### Links
 
  - Add chinese CV with [this guide](http://longqian.me/2017/02/12/jekyll-support-chinese/)
  - Bytedance's [Resume Example](https://github.com/CyC2018/Markdown-Resume)
+ - Blog posts in Jekyll [this repo](https://github.com/jameswillweb/jekyll-for-designers}
