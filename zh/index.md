@@ -24,7 +24,7 @@ Performance Test 和 DevOps, Automation Specialist
 ## <span class="fas fa-briefcase black"></span> 工作经历
 
 `2020`
-__[Accelbyte](https://accelbyte.io)__, Yogyakarta达， 印尼。
+__[Accelbyte](https://accelbyte.io)__, Yogyakarta， 印尼。
 
 `2018 - 2019`
 __[BTPN Jenius](http://jenius.com)__, 雅加达， 印尼。
