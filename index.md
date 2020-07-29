@@ -49,9 +49,9 @@ __Informatics Engineering__, Institut Teknologi Bandung.
 `2020 - present`
 __[Accelbyte](https://accelbyte.io/)__, Yogyakarta.
 
-- Maintain the existing platform and write a new feature  or an ehancement in Java Spring or Golang.
+- Maintain the existing platform and write a new feature  or an enhancement in Java Spring or Golang.
 - Support operational team to troubleshoot a client issue.
-- Support a client to develop and intergrate the game with platform backend services.
+- Support a client to develop and integrate the game with platform backend services.
 
 `2018 - 2019`
 __[BTPN Jenius](http://jenius.com)__, Jakarta.
